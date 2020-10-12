@@ -6,6 +6,7 @@ My name is **Mohamed Cherifi**. I am a **Web Developer** from Canada 🍁, livin
 ## Socials 📢
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/mohamed-cherifi-30414378)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/pineappleshade/)
+[![LeetCode](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/macherifi)
 </p>
 
 ## Technologies & Tools 💻
