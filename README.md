@@ -9,6 +9,7 @@ My name is **Mohamed Cherifi**. I am a **Web Developer** from Canada 🍁, livin
 [![LeetCode](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/PineappleShade)
 </p>
 
+<!-- https://shields.io/ https://simpleicons.org/-->
 ## Technologies & Tools 💻
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
@@ -18,6 +19,7 @@ My name is **Mohamed Cherifi**. I am a **Web Developer** from Canada 🍁, livin
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats 📈
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PineappleShade&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)-->
