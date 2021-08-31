@@ -11,15 +11,32 @@ My name is **Mohamed Cherifi**. I am a **Web Developer** from Canada 🍁, livin
 
 <!-- https://shields.io/ https://simpleicons.org/-->
 ## Technologies & Tools 💻
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+
+### Languages
+![](https://img.shields.io/badge/JavaScript--informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PHP--informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C%20Sharp--informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+
+### Frameworks
+![](https://img.shields.io/badge/React--informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node.js--informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+
+### Dev-ops
+![](https://img.shields.io/badge/Docker--informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Jenkins--informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ansible--informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
+
+### Database
+![](https://img.shields.io/badge/MySQL--informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+
+### Operating Systems
+![](https://img.shields.io/badge/Linux--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Windows--informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+
+### IDE
+![](https://img.shields.io/badge/WebStorm--informational?style=flat&logo=WebStorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PhpStorm--informational?style=flat&logo=PHPStorm&logoColor=white&color=2bbc8a)
+
 
 ## GitHub Stats 📈
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PineappleShade&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)-->
