@@ -43,7 +43,9 @@ My name is **Mohamed Cherifi**. I am a **Web Developer** from Canada 🍁, livin
 ## GitHub Stats 📈
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PineappleShade&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PineappleShade&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PineappleShade&hide=java,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
