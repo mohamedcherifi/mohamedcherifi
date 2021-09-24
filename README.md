@@ -19,6 +19,8 @@ My name is **Mohamed Cherifi**. I am a **Web Developer** from Canada 🍁, livin
 
 ### Frameworks
 ![](https://img.shields.io/badge/React--informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+
+### Backend
 ![](https://img.shields.io/badge/Node.js--informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 
 ### Dev-ops
