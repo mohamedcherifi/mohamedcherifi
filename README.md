@@ -40,7 +40,7 @@ My name is **Mohamed Cherifi**. I am a **Web Developer** from Canada 🍁, livin
 ![](https://img.shields.io/badge/PhpStorm--informational?style=flat&logo=PHPStorm&logoColor=white&color=2bbc8a)
 
 
-## GitHub Stats 📈
+## Stats 📈
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PineappleShade&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)-->
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PineappleShade&hide=mdx,csv,text,typescript,ini,nginx,other&v=2)](https://github.com/anuraghazra/github-readme-stats)
