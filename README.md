@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is **Mohamed Cherifi**. I am a **Web Developer** from Canada 🍁, living in Montreal and currently working for **Unity**.
+My name is **Mohamed Cherifi**. I am a **Full Stack Developer** from Canada 🍁, living in Montreal and currently working for **Unity**.
 
 
 
